@@ -1,0 +1,14 @@
+{
+  "name": "Auf Deutsch! — Learn German A0–C2",
+  "short_name": "Auf Deutsch!",
+  "description": "Learn German from zero to mastery: everyday German, grammar and life in Germany.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#c8102e",
+  "lang": "en",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
